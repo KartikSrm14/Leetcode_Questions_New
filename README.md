@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
@@ -52,4 +53,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
