@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +77,12 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
