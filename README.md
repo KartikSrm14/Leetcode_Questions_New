@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
+| [2843-count-symmetric-integers](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/2843-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
