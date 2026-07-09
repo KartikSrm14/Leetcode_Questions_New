@@ -42,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -55,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
 | [2843-count-symmetric-integers](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/2843-count-symmetric-integers) |
 ## Two Pointers
@@ -126,4 +128,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0039-combination-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
