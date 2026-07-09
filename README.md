@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0039-combination-sum) |
+| [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0867-transpose-matrix) |
