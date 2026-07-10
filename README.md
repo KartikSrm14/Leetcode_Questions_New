@@ -45,6 +45,7 @@
 | [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0014-longest-common-prefix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -128,6 +130,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
