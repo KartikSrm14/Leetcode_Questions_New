@@ -22,6 +22,7 @@
 | [0867-transpose-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1920-build-array-from-permutation](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1920-build-array-from-permutation) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2843-count-symmetric-integers](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/2843-count-symmetric-integers) |
 ## Two Pointers
 |  |
