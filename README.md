@@ -148,4 +148,5 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
