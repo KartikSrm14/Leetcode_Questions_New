@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -56,6 +57,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -111,6 +113,7 @@
 | [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
