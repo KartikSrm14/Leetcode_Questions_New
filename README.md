@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0344-reverse-string) |
@@ -151,4 +154,12 @@
 | [0371-sum-of-two-integers](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0461-hamming-distance) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
