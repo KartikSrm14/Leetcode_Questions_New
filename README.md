@@ -15,6 +15,7 @@
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0198-house-robber) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0867-transpose-matrix) |
 ## Sliding Window
@@ -160,9 +163,11 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
