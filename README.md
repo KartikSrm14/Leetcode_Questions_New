@@ -83,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
@@ -172,4 +173,8 @@
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
