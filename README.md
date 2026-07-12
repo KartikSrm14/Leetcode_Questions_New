@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
@@ -93,6 +95,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0240-search-a-2d-matrix-ii) |
