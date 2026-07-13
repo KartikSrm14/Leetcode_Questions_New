@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0414-third-maximum-number) |
 | [0518-coin-change-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0713-subarray-product-less-than-k) |
@@ -89,6 +90,7 @@
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1346-check-if-n-and-its-double-exist) |
