@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0867-transpose-matrix) |
