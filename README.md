@@ -18,6 +18,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0198-house-robber) |
@@ -168,6 +169,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
