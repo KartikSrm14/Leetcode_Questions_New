@@ -1,25 +1,22 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        Rotate(nums,k);
+        rot(nums,k);
     }
 
-    public static void Rotate(int[] arr, int k){
-        int n = arr.length;
-         k = k%n;
-        Rev(arr,0,n-1);
-        Rev(arr,0,k-1);
-        Rev(arr,k,n-1);
-    }
+    public static void rot(int[] arr,int k){
+        k = k%arr.length;
+        fuc(arr,0,arr.length-1);
+        fuc(arr,0,k-1);
+        fuc(arr,k,arr.length-1);
+        }
 
-    public static void Rev(int[] arr, int i, int j){
-        while(i<j){
-            int temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-            i++;
-            j--; 
+        public static void fuc(int[] arr, int i, int j){
+            while(i<j){
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                i++;
+                j--;
+            }
         }
     }
-}
-
-
