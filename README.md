@@ -95,6 +95,7 @@
 | [0016-3sum-closest](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0141-linked-list-cycle) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0344-reverse-string) |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
