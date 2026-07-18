@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0027-remove-element) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
@@ -201,4 +203,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
