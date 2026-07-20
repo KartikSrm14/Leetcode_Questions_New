@@ -19,6 +19,7 @@
 | [0040-combination-sum-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0074-search-a-2d-matrix) |
@@ -184,6 +185,7 @@
 | [0037-sudoku-solver](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
