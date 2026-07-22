@@ -37,6 +37,7 @@
 | [0414-third-maximum-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0896-monotonic-array) |
@@ -89,6 +90,7 @@
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -152,6 +154,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
