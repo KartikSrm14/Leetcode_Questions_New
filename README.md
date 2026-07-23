@@ -28,6 +28,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0169-majority-element) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KartikSrm14/Leetcode_Questions_New/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
